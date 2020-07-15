@@ -1,7 +1,7 @@
 package com.mkyong.web.location;
 
 public class ServerLocation {
-
+// comment
 	private String countryCode;
 	private String countryName;
 	private String region;
